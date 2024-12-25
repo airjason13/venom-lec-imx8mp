@@ -51,7 +51,7 @@
     <linkfile dest="adlink-imx-setup-release.sh" src="conf/adlink-conf/adlink-imx-setup-release.sh"/>
   </project>
     
-  <project name="meta-venom-imx" path="sources/meta-venom-imx" remote="venom-imx" revision="794120040d8551db2fcd2065a01a700ed80c426c" upstream="scarthgap">
+  <project name="meta-venom-imx" path="sources/meta-venom-imx" remote="venom-imx" revision="14dd6b3b7eb2106205aed0f4f7491368a4e4c57f" upstream="scarthgap">
      <linkfile src="tools/venom-imx-setup.sh" dest="venom-imx-setup.sh"/>
      <linkfile src="tools/venom_local.conf" dest="venom_local.conf"/>
   </project>
