@@ -60,4 +60,3 @@
   
   <project name="meta-swupdate" path="sources/meta-swupdate" remote="swupdate" revision="4a65b1ed36c0b6ee4942d5f23c4984552b17cfe6" upstream="scarthgap"/>
 </manifest>
-</manifest>
